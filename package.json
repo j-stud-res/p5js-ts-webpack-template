@@ -1,0 +1,19 @@
+{
+  "name": "p5js-webpack-ts-template",
+  "version": "1.0.0",
+  "description": "A simple template to get you started with p5 using webpack and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.7.2",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.11"
+  },
+  "dependencies": {
+    "p5": "^0.6.0"
+  }
+}
